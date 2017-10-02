@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "mapnik": "3.6.2",
-    "mapnik-pool": "git@github.com:charandas/mapnik-pool.git#master"
+    "mapnik-pool": "https://github.com/charandas/mapnik-pool.git#master"
   },
   "devDependencies": {
     "@mapbox/tilelive": "5.12.6",
